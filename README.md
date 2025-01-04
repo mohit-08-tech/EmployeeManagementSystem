@@ -8,5 +8,7 @@ REST API's for Employee Management System
    2.1.	Add-Migration “InitialSetup”
    2.2.	Update-Database
 
-3. Update the database connection string in appsettings.json file
+3. Update the database connection string in appsettings.json file.
+
+4. Also you can find the database script in EmployeeManagementSystem/Databse Script folder
 
